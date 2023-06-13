@@ -17,3 +17,5 @@ The files are in Easyeda format.
 ![1](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/MCP23017_beakout/DSC00867_low.png)
 
 ![2](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/MCP23017_beakout/DSC00877_low.png)
+
+![3](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/MCP23017_beakout/DSC00894_low.png)
