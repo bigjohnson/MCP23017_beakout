@@ -8,6 +8,8 @@ There are three jumpers A0, A1, A2 for MCP23017 address selection.
 
 You could solder led for output or push button for input.
 
+The board has the correct back side i2c pinout labels.
+
 The files are in Easyeda format.
 
 ![a](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/MCP23017_beakout/PCB_PCB_myMCP23017_2023-06-13.png)
